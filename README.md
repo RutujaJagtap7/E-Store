@@ -55,7 +55,7 @@ This repository consist of all the assignments which should be uploaded to Web-D
 5. Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
 
 *******************************************************************************************************************************************
-CONTACT: amitdeka13@gmail.com
+
 
 
 *******************************************************************************************************************************************
