@@ -1,66 +1,15 @@
-# Web-Development
-This repository consist of all the assignments which should be uploaded to Web-Development Training.
+# E-STORE 
+This project was developed as a part of the Internshala online training on Web Development. E-store is an ecommerce website for mobile phones, which is responsive and would work seamlessly on different devices. The database used in the project is MySQL.
 
-### Tools that will be need to View and Modify this project (For Windows, MacOS and Linux)
-
-1. Atom Text Editor. [( Click here to go to the Download Page )](https://atom.io/)
-2. XAMPP - It is an easy to install Apache distribution containing MariaDB, PHP, and Perl. [( Click here to go to te Download Page )](https://www.apachefriends.org/download.html)
+The following are the pages in the website:
 
 
 
-### PHP Folder Structure
-	
-	PHP/
-	├── css/ (contains all the css files)
-	│    ├── bootstrap.css
-	│    ├── bootstrap.min.css
-	│    └── index.css
-    ├── database/ (contains database)
-    |	 └──ecommerce.sql
-	├── fonts/ (contains glyphicons)
-	│    ├── glyphicons-halflings-regular.eot
-	│    ├── glyphicons-halflings-regular.svg
-	│    ├── glyphicons-halflings-regular.ttf
-	│    ├── glyphicons-halflings-regular.woff
-	│    └── glyphicons-halflings-regular.woff2
-	├── js/ (contains Bootstrap Js files.)
-	│    ├── bootstrap.js
-	│    └── bootstrap.min.js
-	├──  img/
-	│    └── (contains all images required for developing the website)
-	├──  includes/	 
-	│    ├── check-if-added.php
-	│    ├── common.php
-	│    ├── footer.php
-	│    └── header.php
-	├──  cart-add.php
-	├──  cart-remove.php
-	├──  cart.php 
-	├──  index.php
-	├──  login.php
-	├──  login_script.php
-	├──  logout_script.php
-	├──  products.php
-	├──  settings.php
-	├──  settings-script.php
-	├──  signup.php
-	├──  signup_script.php
-	└──  success.php
-
-### SETUP			
-1. Start the Apache and MySQL modules using the XAMPP controller.
-2. Open the phpMyAdmin and create a database "lifestylestore". 
-3. Import the lifestylestore.sql file present in the zip folder.
-4. Open the htdocs folder in the xampp folder. Copy paste the folder lifestylestore.
-5. Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
-
-*******************************************************************************************************************************************
-
-
-
-*******************************************************************************************************************************************
-LICENSE AND COPYRIGHT: All the images used for this project are representational images.
-Internshala holds no copyright over these images.
-TRADEMARKS:
-1. The trademarks of the brands belong to the respective brands and Internshala does not trademark violations.
-2.)".Lifestyle" and "Lifestyle store" are not registered trademarks of Internshala nor it holds any copyright over the use of these words.
+<img width="959" alt="0" src="https://user-images.githubusercontent.com/40450381/171997950-b3238935-274b-49dd-889d-90496438a95e.PNG">
+<img width="957" alt="3" src="https://user-images.githubusercontent.com/40450381/171997959-28b744a3-f604-4a74-93c2-c795fdae7d47.PNG">
+<img width="956" alt="1" src="https://user-images.githubusercontent.com/40450381/171997961-08b1dd67-b128-4966-abaf-84e032130edd.PNG">
+<img width="960" alt="7" src="https://user-images.githubusercontent.com/40450381/171997972-76c0ec15-2a18-45e2-a2b2-7d8624efa9da.PNG">
+<img width="945" alt="2" src="https://user-images.githubusercontent.com/40450381/171997967-9d914f57-0392-4962-bd9c-d6eb8bcc0efb.PNG">
+<img width="958" alt="5" src="https://user-images.githubusercontent.com/40450381/171997990-f74260c7-6f73-4119-8ab1-d2d3fc3810d5.PNG">
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/40450381/171997994-7ad2f0bd-549f-4037-ac53-38d0882f770b.PNG">
+<img width="960" alt="7" src="https://user-images.githubusercontent.com/40450381/171998002-ed1b18b4-2b49-4b66-a545-fb3262ca26d2.PNG">
